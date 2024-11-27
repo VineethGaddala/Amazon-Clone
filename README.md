@@ -1,2 +1,2 @@
 # Amazon-Clone
-project made using HTML &amp; CSS
+A medium-level project made using HTML & CSS.
